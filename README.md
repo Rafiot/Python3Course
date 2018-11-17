@@ -17,7 +17,7 @@ This course is supposed to run on jupyter-notebook. This very short documentatio
 
     ```bash
 
-    (sudo) pip install jupyter
+    (sudo) pip3 install jupyter
     ```
 
 3. Run the notebook
